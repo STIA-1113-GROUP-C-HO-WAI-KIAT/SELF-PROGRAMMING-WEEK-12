@@ -5,7 +5,11 @@ public class ArrayMethod {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Advantage of method");
-		displayLine();
+        displayLine();
+        System.out.println("Advantage of Array");
+        displayLine();
+        System.out.println("Display of Array");
+        displayLine();
 
 	}
 
@@ -17,4 +21,3 @@ public class ArrayMethod {
 	System.out.println(" ");
 	}
 }
-	
